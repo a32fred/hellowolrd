@@ -1,3 +1,7 @@
-# hellowolrd
+# hello wolrd! =)
 
-<p>APENAS PARA O REPO '/NLW-COPA'. EM RESPOSTA AO MOTIVO DE EU N TER TERMINADO</p>
+- GIT HUB PAGES OR SITE: **[CLICK](https://a32fred.github.io/hellowolrd/)**
+
+##
+
+> **<p>APENAS UM OLÁ MUNDO</p>**
